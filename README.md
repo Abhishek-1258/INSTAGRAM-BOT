@@ -1,4 +1,4 @@
-# INSTA-BOT-2
+# INSTAGRAM BOT
 1.	Now your friend has followed a lot of different food bloggers, he needs to analyse the habits of these bloggers.
 0.	From the list of instagram handles you obtained when you searched ‘food’ in previous project. Open the first 10 handles and find the top 5 which have the highest number of followers
 1.	Now Find the number of posts these handles have done in the previous 3 days.
